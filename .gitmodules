@@ -1,0 +1,3 @@
+[submodule "open-combat-client"]
+	path = open-combat-client
+	url = https://github.com/Open-Combat/open-combat-client.git
