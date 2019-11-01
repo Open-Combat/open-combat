@@ -4,3 +4,6 @@
 [submodule "open-combat-auth"]
 	path = open-combat-auth
 	url = https://github.com/Open-Combat/open-combat-auth.git
+[submodule "open-combat-engine"]
+	path = open-combat-engine
+	url = https://github.com/Open-Combat/open-combat-engine.git
